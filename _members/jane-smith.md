@@ -1,13 +1,13 @@
 ---
-name: Jane Smith
-image: images/photo.jpg
+name: Olga Ponomarova
+image: images/Ponomarova_profile_picture.jpg
 role: pi
 aliases:
-  - J. Smith
-  - J Smith
+  - O. Ponomarova
+  - O Ponomarova
 links:
   home-page: https://janesmith.com
-  orcid: 0000-0001-8713-9213
+  orcid: 0000-0001-6331-9949
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
