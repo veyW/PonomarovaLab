@@ -1,10 +1,9 @@
 ---
 ---
 
-# Lab Website Template
+# PONOMAROVA LAB
 
-[Lab Website Template](https://github.com/greenelab/lab-website-template) is an easy-to-use, flexible website template for [labs](https://www.greenelab.com/).
-Spend less time worrying about managing a website and citations, and more time running your lab.
+The Ponomarova Lab at the [University of New Mexico Medical School](https://hsc.unm.edu/research/)'s Department of Biochemistry and Molecular Biology investigates how metabolism contributes to the health of living organisms. Our research focuses on the fundamental principles of central metabolism. We are particularly interested in identifying 'focus points' that drive the transition between health and illness.
 
 {%
   include button.html
@@ -39,9 +38,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="DALLE_2023-03-25_230416.png"
   link="research"
-  title="Our Research"
+  title="Research"
   text=text
 %}
 
@@ -62,9 +61,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="DALL.png"
   link="projects"
-  title="Our Projects"
+  title="Projects"
   flip=true
   style="bare"
   text=text
@@ -89,6 +88,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   include feature.html
   image="images/photo.jpg"
   link="team"
-  title="Our Team"
+  title="Team"
   text=text
 %}
