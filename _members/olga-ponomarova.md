@@ -6,7 +6,8 @@ aliases:
   - O. Ponomarova
   - O Ponomarova
 links:
-  home-page: https://janesmith.com
+  twitter: PonomarovaLab
+  instagram: ponomarovaolga_unm
   orcid: 0000-0001-6331-9949
 ---
 

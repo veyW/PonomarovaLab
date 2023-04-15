@@ -7,15 +7,13 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+We are looking for new members! Undergrads to postdocs are welcome. Please email your CV and a few lines about your goals and interests to oponomarova@salud.unm.edu
 
 {%
   include button.html
   type="email"
-  text="jane@smith.com"
-  link="jane@smith.com"
+  text="oponomarova@salud.unm.edu"
+  link="oponomarova@salud.unm.edu"
 %}
 {%
   include button.html
@@ -27,7 +25,7 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
   include button.html
   type="address"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps"
+  link="https://goo.gl/maps/QsqcKtpkpfxzp9cf9"
 %}
 
 {% include section.html %}
