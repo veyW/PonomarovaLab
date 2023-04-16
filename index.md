@@ -38,7 +38,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="DALLE_2023-03-25_230416.png"
+  image="images/DALLE_2023-03-25_230416.png"
   link="research"
   title="Research"
   text=text
@@ -61,7 +61,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="DALL.png"
+  image="images/DALL.png"
   link="projects"
   title="Projects"
   flip=true
