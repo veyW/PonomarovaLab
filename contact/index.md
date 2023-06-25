@@ -29,8 +29,10 @@ We have several job openings (PhD candidates, research technicians, staff scient
 
 {%
   include figure.html
-  image="images/ethan-wright-magoon.jpeg"
-  caption="New Mexico, photo by Ethan Wright-Magoon"
+  #image="images/ethan-wright-magoon.jpeg"
+  #caption="New Mexico, photo by Ethan Wright-Magoon"
+  image="images/robin-sommer.jpg"
+  caption="New Mexico, photo by Robin Sommer"
 %}
 
 {% endcapture %}
@@ -39,7 +41,7 @@ We have several job openings (PhD candidates, research technicians, staff scient
 
 {%
   include figure.html
-  image="images/joonyeop-baek.jpeg"
+  image="images/joonyeop-baek.jpg"
   caption="New Mexico, photo by Joonyeop Baek"
 %}
 
