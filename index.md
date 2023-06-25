@@ -35,7 +35,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We study central metabolic pathways. How are they connected? What does it mean for organismal physiology? To understand the logic behind the metabolic network architecture we use a renowned model organism nematode Caenorhabditis elegans and its bacterial diet. Metabolomics and genetics are our favorite tools.
 
 {%
   include button.html
@@ -60,7 +60,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Coming soon...
 
 {%
   include button.html

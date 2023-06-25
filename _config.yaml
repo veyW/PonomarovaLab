@@ -1,9 +1,9 @@
 # site properties and page defaults
 title: PONOMAROVA LAB
-#subtitle: by the Greene Lab
+subtitle: We are hiring! See contacts page for details.
 #description: An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.
-header: images/background.jpg
-footer: images/background.jpg
+header: images/yellow_green.jpg
+footer: images/yellow_green.jpg
 
 # site social media and other links
 links:

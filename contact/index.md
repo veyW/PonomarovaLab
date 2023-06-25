@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-We are looking for new members! Undergrads to postdocs are welcome. Please email your CV and a few lines about your goals and interests to oponomarova@salud.unm.edu
+We have several job openings (PhD candidates, research technicians, staff scientists). Please email your CV and a few lines about your goals and interests to oponomarova@salud.unm.edu
 
 {%
   include button.html
@@ -15,12 +15,7 @@ We are looking for new members! Undergrads to postdocs are welcome. Please email
   text="oponomarova@salud.unm.edu"
   link="oponomarova@salud.unm.edu"
 %}
-{%
-  include button.html
-  type="phone"
-  text="(555) 867-5309"
-  link="+1-555-867-5309"
-%}
+
 {%
   include button.html
   type="address"
@@ -34,8 +29,8 @@ We are looking for new members! Undergrads to postdocs are welcome. Please email
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  image="images/ethan-wright-magoon.jpeg"
+  caption="Photo by Ethan Wright-Magoon"
 %}
 
 {% endcapture %}
