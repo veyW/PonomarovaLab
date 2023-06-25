@@ -39,7 +39,7 @@ We have several job openings (PhD candidates, research technicians, staff scient
 
 {%
   include figure.html
-  image="joonyeop-baek.jpeg"
+  image="images/joonyeop-baek.jpeg"
   caption="New Mexico, photo by Joonyeop Baek"
 %}
 
