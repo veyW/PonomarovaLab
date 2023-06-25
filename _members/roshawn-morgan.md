@@ -1,6 +1,6 @@
 ---
 name: Roshawn Morgan
-image: images/photo.jpg
+image: images/team_member.jpg
 role: phd
 group: alum
 links:

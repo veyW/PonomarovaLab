@@ -3,19 +3,8 @@
 
 # PONOMAROVA LAB
 
-The Ponomarova Lab at the [University of New Mexico Medical School](https://hsc.unm.edu/research/)'s Department of Biochemistry and Molecular Biology investigates how metabolism contributes to the health of living organisms. Our research focuses on the fundamental principles of central metabolism. We are particularly interested in identifying 'focus points' that drive the transition between health and illness.
+The Ponomarova Lab at the [University of New Mexico Medical School](https://hsc.unm.edu/research/)'s Department of Biochemistry and Molecular Biology investigates how metabolism contributes to the health of living organisms. Our research focuses on the fundamental principles of central metabolism. We are particularly interested in identifying 'pressure points' that drive the transition between health and illness.
 
-{%
-  include button.html
-  type="docs"
-  link="https://greene-lab.gitbook.io/lab-website-template-docs"
-%}
-{%
-  include button.html
-  type="github"
-  text="On GitHub"
-  link="greenelab/lab-website-template"
-%}
 
 {% include section.html %}
 
@@ -86,7 +75,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/excited_scientists.jpg"
   link="team"
   title="Team"
   text=text

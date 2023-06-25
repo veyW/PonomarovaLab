@@ -1,6 +1,6 @@
 ---
 name: Olga Ponomarova
-image: images/Ponomarova_profile_picture.jpg
+image: images/OLGA1.jpg
 role: pi
 aliases:
   - O. Ponomarova
