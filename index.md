@@ -12,7 +12,7 @@ The Ponomarova Lab at the [University of New Mexico Medical School](https://hsc.
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We study central metabolic pathways. How are they connected? What does it mean for organismal physiology? To understand the logic behind the metabolic network architecture we use a renowned model organism nematode Caenorhabditis elegans and its bacterial diet. Metabolomics and genetics are our favorite tools.
 
 {%
   include button.html
@@ -27,7 +27,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/DALLE_2023-03-25_230416.png"
+  image="images/micro.jpg"
   link="research"
   title="Research"
   text=text
@@ -35,7 +35,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-We study central metabolic pathways. How are they connected? What does it mean for organismal physiology? To understand the logic behind the metabolic network architecture we use a renowned model organism nematode Caenorhabditis elegans and its bacterial diet. Metabolomics and genetics are our favorite tools.
+Coming soon...
 
 {%
   include button.html
@@ -50,7 +50,7 @@ We study central metabolic pathways. How are they connected? What does it mean f
 
 {%
   include feature.html
-  image="images/DALL.png"
+  image="images/project.jpg"
   link="projects"
   title="Projects"
   flip=true
@@ -60,7 +60,7 @@ We study central metabolic pathways. How are they connected? What does it mean f
 
 {% capture text %}
 
-Coming soon...
+Our people is our biggest asset.
 
 {%
   include button.html
