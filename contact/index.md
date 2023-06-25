@@ -29,8 +29,6 @@ We have several job openings (PhD candidates, research technicians, staff scient
 
 {%
   include figure.html
-  #image="images/ethan-wright-magoon.jpeg"
-  #caption="New Mexico, photo by Ethan Wright-Magoon"
   image="images/robin-sommer.jpg"
   caption="New Mexico, photo by Robin Sommer"
 %}
