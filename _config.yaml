@@ -1,9 +1,9 @@
 # site properties and page defaults
 title: PONOMAROVA LAB
-subtitle: We are hiring! See contacts page for details.
+subtitle: We are hiring! See contacts page for details
 #description: An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.
-header: images/yellow_green.jpg
-footer: images/yellow_green.jpg
+header: images/petri2.jpg
+footer: images/petri2.jpg
 
 # site social media and other links
 links:
