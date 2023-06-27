@@ -2,7 +2,8 @@
 name: Amanda Anderson
 image: images/Amanda2.jpg
 description: Research Technician
-role: programmer
+role: student
+#role: programmer
 links:
   email: AVAnderson@salud.unm.edu
   #twitter: sarahjohnson
