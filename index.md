@@ -60,7 +60,7 @@ Coming soon...
 
 {% capture text %}
 
-Our people is our biggest asset.
+Our people are our biggest asset.
 
 {%
   include button.html
