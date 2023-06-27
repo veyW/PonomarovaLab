@@ -1,6 +1,6 @@
 ---
 name: Amanda Anderson
-image: images/team_member.jpg
+image: images/Amanda2.jpg
 description: Research Technician
 role: programmer
 links:
