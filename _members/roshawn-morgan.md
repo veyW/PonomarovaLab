@@ -1,7 +1,8 @@
 ---
 name: Roshawn Morgan
-image: images/team_member.jpg
-role: phd
+image: images/Roshawn2.jpg
+description: Undergraduate Assistant
+#role: phd
 group: alum
 links:
   github: roshawn-morgan
