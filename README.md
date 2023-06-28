@@ -1,12 +1,11 @@
 Visit **[ponomarovalab.com](https://ponomarovalab.com)** 🚀
 
-<h1 align="center">Lab Website Template</h1>
+<h1 align="center">Ponomarova Lab</h1>
 <p align="center">
-<img height="200" src="https://raw.githubusercontent.com/greenelab/lab-website-template/main/images/share.jpg?raw=true" alt="Lab Website Template">
+<img height="200" src="https://ponomarovalab.com" alt="Ponomarova Lab">
 </p>
 
-Lab Website Template (LWT) is an easy-to-use, flexible website template for labs.
-Spend less time worrying about managing a website and citations, and more time running your lab.
+We study metabolic network: how individual pathways coordinate their activity and how these interactions affect organismal health. 
 
 👇👇 **Get Started** 👇👇
 
