@@ -3,7 +3,7 @@
 
 # PONOMAROVA LAB
 
-The Ponomarova Lab at the [University of New Mexico Medical School](https://hsc.unm.edu/research/)'s Department of Biochemistry and Molecular Biology investigates how metabolism contributes to the health of living organisms. Our research focuses on the fundamental principles of central metabolism. We are particularly interested in identifying 'pressure points' that drive the transition between health and illness.
+We study metabolism. Our lab at the [University of New Mexico Medical School](https://hsc.unm.edu/research/)'s Department of Biochemistry and Molecular Biology investigates how metabolic network supports health of living organisms. Our research focuses on the fundamental principles that guide metabolic pathways interactions.
 
 
 {% include section.html %}
@@ -12,7 +12,7 @@ The Ponomarova Lab at the [University of New Mexico Medical School](https://hsc.
 
 {% capture text %}
 
-We study central metabolic pathways. How are they connected? What does it mean for organismal physiology? To understand the logic behind the metabolic network architecture we use a renowned model organism nematode Caenorhabditis elegans and its bacterial diet. Metabolomics and genetics are our favorite tools.
+We are intrigued by intericate connections of central metabolic pathways. Why are they built this way? How does their function affect organismal physiology? To understand the logic behind the metabolic network architecture we use a renowned model organism nematode _Caenorhabditis elegans_ and its bacterial diet. Metabolomics and genetics are our favorite tools.
 
 {%
   include button.html
@@ -35,7 +35,7 @@ We study central metabolic pathways. How are they connected? What does it mean f
 
 {% capture text %}
 
-Coming soon...
+Our research aims to discover intricate, dynamic links in the metabolic network. We are developing both focused and more systems-level, exploratory projects around this overarching theme. 
 
 {%
   include button.html
@@ -60,7 +60,7 @@ Coming soon...
 
 {% capture text %}
 
-Our people are our biggest asset.
+People are our biggest asset. Get to know them here.
 
 {%
   include button.html
