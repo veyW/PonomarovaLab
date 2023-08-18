@@ -1,5 +1,5 @@
 ---
-name: Amanda Anderson
+name: Omar Rachidi Alaoui
 image: images/Omar.jpg
 description: Research Technician
 role: student
