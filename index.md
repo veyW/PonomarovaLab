@@ -1,8 +1,6 @@
 ---
 ---
 
-# PONOMAROVA LAB
-
 We study metabolism. Our lab at the [University of New Mexico Medical School](https://hsc.unm.edu/research/)'s Department of Biochemistry and Molecular Biology investigates how metabolic network supports health of living organisms. Our research focuses on the fundamental principles that guide metabolic pathways interactions.
 
 

@@ -2,8 +2,7 @@
 name: Omar Rachidi Alaoui
 image: images/Omar.jpg
 description: Research Technician
-role: student
-#role: programmer
+role: undergrad
 links:
   email: OmRachidi@salud.unm.edu
   #twitter: sarahjohnson
