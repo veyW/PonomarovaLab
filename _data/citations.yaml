@@ -1,5 +1,620 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: pmc:PMC10096224
+  title: A D-2-hydroxyglutarate dehydrogenase mutant reveals a critical role for ketone
+    body metabolism in Caenorhabditis elegans development
+  authors:
+  - Olga Ponomarova
+  - Hefei Zhang
+  - Xuhang Li
+  - Shivani Nanda
+  - Thomas B Leland
+  - Bennett W Fox
+  - Alyxandra N Starbard
+  - Gabrielle E Giese
+  - Frank C Schroeder
+  - L Safak Yilmaz
+  - Albertha J M Walhout
+  publisher: PLoS biology
+  date: '2023-04-12'
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10096224/
+  orcid: 0000-0001-6331-9949
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pbio.3002057
+  title: A D-2-hydroxyglutarate dehydrogenase mutant reveals a critical role for ketone
+    body metabolism in Caenorhabditis elegans development
+  authors:
+  - Olga Ponomarova
+  - Hefei Zhang
+  - Xuhang Li
+  - Shivani Nanda
+  - Thomas B. Leland
+  - Bennett W. Fox
+  - Alyxandra N. Starbard
+  - Gabrielle E. Giese
+  - Frank C. Schroeder
+  - L. Safak Yilmaz
+  - Albertha J. M. Walhout
+  publisher: PLOS Biology
+  date: '2023-04-12'
+  link: https://doi.org/gsdgkb
+  orcid: 0000-0001-6331-9949
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:37043428
+  title: A D-2-hydroxyglutarate dehydrogenase mutant reveals a critical role for ketone
+    body metabolism in Caenorhabditis elegans development.
+  authors:
+  - Olga Ponomarova
+  - Hefei Zhang
+  - Xuhang Li
+  - Shivani Nanda
+  - Thomas B Leland
+  - Bennett W Fox
+  - Alyxandra N Starbard
+  - Gabrielle E Giese
+  - Frank C Schroeder
+  - L Safak Yilmaz
+  - Albertha J M Walhout
+  publisher: PLoS biology
+  date: '2023-04-12'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/37043428
+  orcid: 0000-0001-6331-9949
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.7554/eLife.83140
+  title: Evolved bacterial resistance to the chemotherapy gemcitabine modulates its
+    efficacy in co-cultured cancer cells
+  authors:
+  - Serkan Sayin
+  - Brittany Rosener
+  - Carmen G Li
+  - Bao Ho
+  - Olga Ponomarova
+  - Doyle V Ward
+  - Albertha JM Walhout
+  - Amir Mitchell
+  publisher: eLife
+  date: '2023-02-03'
+  link: https://doi.org/gr47rp
+  orcid: 0000-0001-6331-9949
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41467-022-33299-5
+  title: Bacterial diet modulates tamoxifen-induced death via host fatty acid metabolism
+  authors:
+  - "C\xE9dric Diot"
+  - "Aurian P. Garc\xEDa-Gonz\xE1lez"
+  - Andre F. Vieira
+  - Melissa Walker
+  - Megan Honeywell
+  - Hailey Doyle
+  - Olga Ponomarova
+  - Yomari Rivera
+  - Huimin Na
+  - Hefei Zhang
+  - Michael Lee
+  - Carissa P. Olsen
+  - Albertha J. M. Walhout
+  publisher: Nature Communications
+  date: '2022-09-23'
+  link: https://doi.org/gr47rq
+  orcid: 0000-0001-6331-9949
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.7554/eLife.81670
+  title: Teaming up to make kombucha
+  authors:
+  - Olga Ponomarova
+  publisher: eLife
+  date: '2022-08-11'
+  link: https://doi.org/gr47rr
+  orcid: 0000-0001-6331-9949
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41586-022-04951-3
+  title: C. elegans as a model for inter-individual variation in metabolism
+  authors:
+  - Bennett W. Fox
+  - Olga Ponomarova
+  - Yong-Uk Lee
+  - Gaotian Zhang
+  - Gabrielle E. Giese
+  - Melissa Walker
+  - Nicole M. Roberto
+  - Huimin Na
+  - Pedro R. Rodrigues
+  - Brian J. Curtis
+  - Aiden R. Kolodziej
+  - Timothy A. Crombie
+  - Stefan Zdraljevic
+  - L. Safak Yilmaz
+  - Erik C. Andersen
+  - Frank C. Schroeder
+  - Albertha J. M. Walhout
+  publisher: Nature
+  date: '2022-07-06'
+  link: https://doi.org/gqg6p6
+  orcid: 0000-0001-6331-9949
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:34117752
+  title: 'WormPaths: Caenorhabditis elegans metabolic pathway annotation and visualization.'
+  authors:
+  - Melissa D Walker
+  - Gabrielle E Giese
+  - Amy D Holdorf
+  - Sushila Bhattacharya
+  - "C\xE9dric Diot"
+  - "Aurian P Garc\xEDa-Gonz\xE1lez"
+  - Brent B Horowitz
+  - Yong-Uk Lee
+  - Thomas Leland
+  - Xuhang Li
+  - Zeynep Mirza
+  - Huimin Na
+  - Shivani Nanda
+  - Olga Ponomarova
+  - Hefei Zhang
+  - Jingyan Zhang
+  - L Safak Yilmaz
+  - Albertha J M Walhout
+  publisher: Genetics
+  date: '2021-08-26'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/34117752
+  orcid: 0000-0001-6331-9949
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/genetics/iyab089
+  title: 'WormPaths: <i>Caenorhabditis elegans</i> metabolic pathway annotation and
+    visualization'
+  authors:
+  - Melissa D Walker
+  - Gabrielle E Giese
+  - Amy D Holdorf
+  - Sushila Bhattacharya
+  - "C\xE9dric Diot"
+  - "Aurian P Garc\xEDa-Gonz\xE1lez"
+  - Brent B Horowitz
+  - Yong-Uk Lee
+  - Thomas Leland
+  - Xuhang Li
+  - Zeynep Mirza
+  - Huimin Na
+  - Shivani Nanda
+  - Olga Ponomarova
+  - Hefei Zhang
+  - Jingyan Zhang
+  - L Safak Yilmaz
+  - Albertha J M Walhout
+  publisher: Genetics
+  date: '2021-06-12'
+  link: https://doi.org/gsdgkc
+  orcid: 0000-0001-6331-9949
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmc:PMC8864737
+  title: 'WormPaths: Caenorhabditis elegans metabolic pathway annotation and visualization'
+  authors:
+  - Melissa D Walker
+  - Gabrielle E Giese
+  - Amy D Holdorf
+  - Sushila Bhattacharya
+  - "C\xE9dric Diot"
+  - "Aurian P Garc\xEDa-Gonz\xE1lez"
+  - Brent B Horowitz
+  - Yong-Uk Lee
+  - Thomas Leland
+  - Xuhang Li
+  - Zeynep Mirza
+  - Huimin Na
+  - Shivani Nanda
+  - Olga Ponomarova
+  - Hefei Zhang
+  - Jingyan Zhang
+  - L Safak Yilmaz
+  - Albertha J M Walhout
+  publisher: Genetics
+  date: '2021-08-26'
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8864737/
+  orcid: 0000-0001-6331-9949
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:33016879
+  title: ''
+  authors:
+  - Gabrielle E Giese
+  - Melissa D Walker
+  - Olga Ponomarova
+  - Hefei Zhang
+  - Xuhang Li
+  - Gregory Minevich
+  - Albertha Jm Walhout
+  publisher: eLife
+  date: '2020-10-05'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/33016879
+  orcid: 0000-0001-6331-9949
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.7554/elife.60259
+  title: Caenorhabditis elegans methionine/S-adenosylmethionine cycle activity is
+    sensed and adjusted by a nuclear hormone receptor
+  authors:
+  - Gabrielle E Giese
+  - Melissa D Walker
+  - Olga Ponomarova
+  - Hefei Zhang
+  - Xuhang Li
+  - Gregory Minevich
+  - Albertha JM Walhout
+  publisher: eLife
+  date: '2020-10-05'
+  link: https://doi.org/gr47rt
+  orcid: 0000-0001-6331-9949
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmc:PMC7561351
+  title: <i>Caenorhabditis elegans</i> methionine/S-adenosylmethionine cycle activity
+    is sensed and adjusted by a nuclear hormone receptor
+  authors:
+  - Gabrielle E Giese
+  - Melissa D Walker
+  - Olga Ponomarova
+  - Hefei Zhang
+  - Xuhang Li
+  - Gregory Minevich
+  - Albertha Jm Walhout
+  publisher: eLife
+  date: '2020-10-05'
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7561351/
+  orcid: 0000-0001-6331-9949
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.15252/msb.20188323
+  title: "Genome\u2010wide prediction of synthetic rescue mediators of resistance\
+    \ to targeted and immunotherapy"
+  authors:
+  - Avinash Das Sahu
+  - Joo S Lee
+  - Zhiyong Wang
+  - Gao Zhang
+  - "Ramiro Iglesias\u2010Bartolome"
+  - Tian Tian
+  - Zhi Wei
+  - Benchun Miao
+  - Nishanth Ulhas Nair
+  - Olga Ponomarova
+  - Adam A Friedman
+  - Arnaud Amzallag
+  - Tabea Moll
+  - Gyulnara Kasumova
+  - Patricia Greninger
+  - Regina K Egan
+  - Leah J Damon
+  - Dennie T Frederick
+  - "Livnat Jerby\u2010Arnon"
+  - Allon Wagner
+  - Kuoyuan Cheng
+  - Seung Gu Park
+  - Welles Robinson
+  - Kevin Gardner
+  - Genevieve Boland
+  - Sridhar Hannenhalli
+  - Meenhard Herlyn
+  - Cyril Benes
+  - Keith Flaherty
+  - Ji Luo
+  - J Silvio Gutkind
+  - Eytan Ruppin
+  publisher: Molecular Systems Biology
+  date: '2019-03-01'
+  link: https://doi.org/grtvcq
+  orcid: 0000-0001-6331-9949
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmc:PMC6413886
+  title: Genome-wide prediction of synthetic rescue mediators of resistance to targeted
+    and immunotherapy
+  authors:
+  - Avinash Das Sahu
+  - Joo S Lee
+  - Zhiyong Wang
+  - Gao Zhang
+  - Ramiro Iglesias-Bartolome
+  - Tian Tian
+  - Zhi Wei
+  - Benchun Miao
+  - Nishanth Ulhas Nair
+  - Olga Ponomarova
+  - Adam A Friedman
+  - Arnaud Amzallag
+  - Tabea Moll
+  - Gyulnara Kasumova
+  - Patricia Greninger
+  - Regina K Egan
+  - Leah J Damon
+  - Dennie T Frederick
+  - Livnat Jerby-Arnon
+  - Allon Wagner
+  - Kuoyuan Cheng
+  - Seung Gu Park
+  - Welles Robinson
+  - Kevin Gardner
+  - Genevieve Boland
+  - Sridhar Hannenhalli
+  - Meenhard Herlyn
+  - Cyril Benes
+  - Keith Flaherty
+  - Ji Luo
+  - J Silvio Gutkind
+  - Eytan Ruppin
+  publisher: Molecular systems biology
+  date: '2019-03-11'
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6413886/
+  orcid: 0000-0001-6331-9949
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:30858180
+  title: Genome-wide prediction of synthetic rescue mediators of resistance to targeted
+    and immunotherapy.
+  authors:
+  - Avinash Das Sahu
+  - Joo S Lee
+  - Zhiyong Wang
+  - Gao Zhang
+  - Ramiro Iglesias-Bartolome
+  - Tian Tian
+  - Zhi Wei
+  - Benchun Miao
+  - Nishanth Ulhas Nair
+  - Olga Ponomarova
+  - Adam A Friedman
+  - Arnaud Amzallag
+  - Tabea Moll
+  - Gyulnara Kasumova
+  - Patricia Greninger
+  - Regina K Egan
+  - Leah J Damon
+  - Dennie T Frederick
+  - Livnat Jerby-Arnon
+  - Allon Wagner
+  - Kuoyuan Cheng
+  - Seung Gu Park
+  - Welles Robinson
+  - Kevin Gardner
+  - Genevieve Boland
+  - Sridhar Hannenhalli
+  - Meenhard Herlyn
+  - Cyril Benes
+  - Keith Flaherty
+  - Ji Luo
+  - J Silvio Gutkind
+  - Eytan Ruppin
+  publisher: Molecular systems biology
+  date: '2019-03-11'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/30858180
+  orcid: 0000-0001-6331-9949
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmc:PMC5896776
+  title: "C.\_elegans MRP-5 Exports Vitamin B12 from Mother to Offspring to Support\
+    \ Embryonic Development"
+  authors:
+  - Huimin Na
+  - Olga Ponomarova
+  - Gabrielle E Giese
+  - Albertha J M Walhout
+  publisher: Cell reports
+  date: '2018-03-20'
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5896776/
+  orcid: 0000-0001-6331-9949
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.celrep.2018.02.100
+  title: "C.\_elegans MRP-5 Exports Vitamin B12 from Mother to Offspring to Support\
+    \ Embryonic Development"
+  authors:
+  - Huimin Na
+  - Olga Ponomarova
+  - Gabrielle E. Giese
+  - Albertha J.M. Walhout
+  publisher: Cell Reports
+  date: '2018-03-01'
+  link: https://doi.org/ghxx57
+  orcid: 0000-0001-6331-9949
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:29562169
+  title: "C.\_elegans MRP-5 Exports Vitamin B12 from Mother to Offspring to Support\
+    \ Embryonic Development."
+  authors:
+  - Huimin Na
+  - Olga Ponomarova
+  - Gabrielle E Giese
+  - Albertha J M Walhout
+  publisher: Cell reports
+  date: '2018-03-20'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/29562169
+  orcid: 0000-0001-6331-9949
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:28964698
+  title: Yeast Creates a Niche for Symbiotic Lactic Acid Bacteria through Nitrogen
+    Overflow.
+  authors:
+  - Olga Ponomarova
+  - Natalia Gabrielli
+  - "Daniel C S\xE9vin"
+  - "Michael M\xFClleder"
+  - Katharina Zirngibl
+  - Katsiaryna Bulyha
+  - Sergej Andrejev
+  - Eleni Kafkia
+  - Athanasios Typas
+  - Uwe Sauer
+  - Markus Ralser
+  - Kiran Raosaheb Patil
+  publisher: Cell systems
+  date: '2017-09-27'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/28964698
+  orcid: 0000-0001-6331-9949
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmc:PMC5660601
+  title: Yeast Creates a Niche for Symbiotic Lactic Acid Bacteria through Nitrogen
+    Overflow
+  authors:
+  - Olga Ponomarova
+  - Natalia Gabrielli
+  - "Daniel C S\xE9vin"
+  - "Michael M\xFClleder"
+  - Katharina Zirngibl
+  - Katsiaryna Bulyha
+  - Sergej Andrejev
+  - Eleni Kafkia
+  - Athanasios Typas
+  - Uwe Sauer
+  - Markus Ralser
+  - Kiran Raosaheb Patil
+  publisher: Cell systems
+  date: '2017-10-25'
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5660601/
+  orcid: 0000-0001-6331-9949
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.cels.2017.09.002
+  title: Yeast Creates a Niche for Symbiotic Lactic Acid Bacteria through Nitrogen
+    Overflow
+  authors:
+  - Olga Ponomarova
+  - Natalia Gabrielli
+  - "Daniel C. S\xE9vin"
+  - "Michael M\xFClleder"
+  - Katharina Zirngibl
+  - Katsiaryna Bulyha
+  - Sergej Andrejev
+  - Eleni Kafkia
+  - Athanasios Typas
+  - Uwe Sauer
+  - Markus Ralser
+  - Kiran Raosaheb Patil
+  publisher: Cell Systems
+  date: '2017-10-01'
+  link: https://doi.org/ghgf72
+  orcid: 0000-0001-6331-9949
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmc:PMC5050001
+  title: Saccharomyces cerevisiae metabolism in ecological context
+  authors:
+  - Paula Jouhten
+  - Olga Ponomarova
+  - Ramon Gonzalez
+  - Kiran R Patil
+  publisher: FEMS yeast research
+  date: '2016-11-01'
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5050001/
+  orcid: 0000-0001-6331-9949
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/femsyr/fow080
+  title: <i>Saccharomyces cerevisiae</i>metabolism in ecological context
+  authors:
+  - Paula Jouhten
+  - Olga Ponomarova
+  - Ramon Gonzalez
+  - Kiran R. Patil
+  publisher: FEMS Yeast Research
+  date: '2016-09-14'
+  link: https://doi.org/f9c5wd
+  orcid: 0000-0001-6331-9949
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:27634775
+  title: Saccharomyces cerevisiae metabolism in ecological context.
+  authors:
+  - Paula Jouhten
+  - Olga Ponomarova
+  - Ramon Gonzalez
+  - Kiran R Patil
+  publisher: FEMS yeast research
+  date: '2016-09-14'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/27634775
+  orcid: 0000-0001-6331-9949
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:26207681
+  title: 'Metabolic interactions in microbial communities: untangling the Gordian
+    knot.'
+  authors:
+  - Olga Ponomarova
+  - Kiran Raosaheb Patil
+  publisher: Current opinion in microbiology
+  date: '2015-07-24'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/26207681
+  orcid: 0000-0001-6331-9949
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.mib.2015.06.014
+  title: 'Metabolic interactions in microbial communities: untangling the Gordian
+    knot'
+  authors:
+  - Olga Ponomarova
+  - Kiran Raosaheb Patil
+  publisher: Current Opinion in Microbiology
+  date: '2015-10-01'
+  link: https://doi.org/f7zgrf
+  orcid: 0000-0001-6331-9949
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmc:PMC4443341
+  title: Metabolic dependencies drive species co-occurrence in diverse microbial communities
+  authors:
+  - Aleksej Zelezniak
+  - Sergej Andrejev
+  - Olga Ponomarova
+  - Daniel R Mende
+  - Peer Bork
+  - Kiran Raosaheb Patil
+  publisher: Proceedings of the National Academy of Sciences of the United States
+    of America
+  date: '2015-05-19'
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4443341/
+  orcid: 0000-0001-6331-9949
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:25941371
+  title: Metabolic dependencies drive species co-occurrence in diverse microbial communities.
+  authors:
+  - Aleksej Zelezniak
+  - Sergej Andrejev
+  - Olga Ponomarova
+  - Daniel R Mende
+  - Peer Bork
+  - Kiran Raosaheb Patil
+  publisher: Proceedings of the National Academy of Sciences of the United States
+    of America
+  date: '2015-05-04'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/25941371
+  orcid: 0000-0001-6331-9949
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1073/pnas.1421834112
+  title: Metabolic dependencies drive species co-occurrence in diverse microbial communities
+  authors:
+  - Aleksej Zelezniak
+  - Sergej Andrejev
+  - Olga Ponomarova
+  - Daniel R. Mende
+  - Peer Bork
+  - Kiran Raosaheb Patil
+  publisher: Proceedings of the National Academy of Sciences
+  date: '2015-05-04'
+  link: https://doi.org/4bs
+  orcid: 0000-0001-6331-9949
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1371/journal.pcbi.1007128
   title: Open collaborative writing with Manubot
   authors:
