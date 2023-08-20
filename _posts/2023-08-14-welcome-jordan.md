@@ -4,4 +4,4 @@ author: olga-ponomarova
 #tags: biology, medicine
 ---
 
-Jordan Perez will work with us on her honors project. She will study how animal's health depends on phosphoglycerate dehydrogenase function. Have fun Jordan! 
+A biochemistry honors student, Jordan Perez, has joined us to work on her project. She will study how health depends on phosphoglycerate dehydrogenase function. Have fun Jordan! 
