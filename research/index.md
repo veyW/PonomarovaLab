@@ -5,12 +5,12 @@ nav:
   tooltip: Published works
 ---
 
- {% include icon.html icon="fa-solid fa-microscope" %}Publications
+# {% include icon.html icon="fa-solid fa-microscope" %}Publications
 
 
 {% include section.html %}
 
-Highlighted
+## Highlighted
 
 -- {% include citation.html lookup="A D-2-hydroxyglutarate dehydrogenase mutant reveals a critical role for ketone body metabolism in Caenorhabditis elegans development" style="rich" %}
 

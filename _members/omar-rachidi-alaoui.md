@@ -1,6 +1,6 @@
 ---
 name: Omar Rachidi Alaoui
-image: images/Omar.jpg
+image: images/Omar-min.jpg
 description: Research Technician
 role: undergrad
 links:

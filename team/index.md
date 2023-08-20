@@ -5,7 +5,7 @@ nav:
   tooltip: About our team
 ---
 
- {% include icon.html icon="fa-solid fa-users" %}Team
+ #{% include icon.html icon="fa-solid fa-users" %}Team
 
 {% include section.html %}
 
@@ -20,9 +20,9 @@ nav:
 
 {% capture content %}
 
-{% include figure.html image="images/lab1.jpg" %}
-{% include figure.html image="images/lab2.jpg" %}
-{% include figure.html image="images/lab3.jpg" %}
+{% include figure.html image="images/lab1-min.jpg" %}
+{% include figure.html image="images/lab2-min.jpg" %}
+{% include figure.html image="images/lab3-min.jpg" %}
 
 {% endcapture %}
 
