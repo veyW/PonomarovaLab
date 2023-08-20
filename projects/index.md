@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
 
-Our projects are broadly shaped around questions of the metabolic network architecture and its mechanistic role in animals' health. Current research directions include interactions between metabolic pathways, the effect of diet on metabolic health, and the role of essential metals in metabolism.
+Our projects primarily focus on the architecture of metabolic networks and their mechanistic roles in animal health. Current research directions include interactions between metabolic pathways, the effects of diet on metabolic health, and the role of essential metals in metabolism.
  
 {% include tags.html tags="publication, resource, website" %}
 
