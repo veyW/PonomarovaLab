@@ -73,7 +73,6 @@ People are our biggest asset. Get to know them here.
 
 {%
   include feature.html
-  #image="images/people_lab1.jpg"
   image="images/team_member.jpg"
   link="team"
   title="Team"
