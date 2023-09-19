@@ -7,7 +7,7 @@ nav:
 
 {% include icon.html icon="fa-solid fa-feather-pointed" %}Blog
 
-Lab's latest news and random things. 
+Lab's latest news and random things
 
 {% include section.html %}
 

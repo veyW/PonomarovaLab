@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Publications
 
-Full list of published articles: https://scholar.google.com/citations?user=1oeqVNMAAAAJ&hl=en&oi=ao
+[Full list of published articles](https://scholar.google.com/citations?user=1oeqVNMAAAAJ&hl=en&oi=ao)
 
 {% include section.html %}
 

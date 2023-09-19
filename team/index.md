@@ -7,6 +7,8 @@ nav:
 
 {% include icon.html icon="fa-solid fa-users" %}Team
 
+Learn more about us
+
 {% include section.html %}
 
 {% include list.html data="members" component="portrait" filters="role: pi" %}
