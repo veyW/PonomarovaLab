@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-We have several job openings (PhD candidates, research technicians, staff scientists). Please email your CV and a few lines about your goals and interests to oponomarova@salud.unm.edu
+We are looking for motivated researchers at different career stages. Please email your CV and a few lines about your goals and interests to oponomarova@salud.unm.edu
 
 {%
   include button.html
