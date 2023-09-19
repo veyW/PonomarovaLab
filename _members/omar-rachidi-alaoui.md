@@ -5,7 +5,6 @@ description: Research Technician
 role: undergrad
 links:
   email: OmRachidi@salud.unm.edu
-  #twitter: sarahjohnson
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Hello! My name is Omar, and I graduated from UNM in the spring of 2023. I like to play soccer, do photography, and play pool. If I am not at the GC-MS, you can probably find me halfway up some mountain.

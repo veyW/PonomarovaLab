@@ -8,4 +8,4 @@ links:
   #twitter: sarahjohnson
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+I am a UNM biochemistry graduate with interests in immunology, microbiology, and metabolomics. Some of my other interests include podcasts, videogames, and gardening. When I’m not on the microscope you’ll find me preparing my D&D party’s next great adventure!🧙‍♂️

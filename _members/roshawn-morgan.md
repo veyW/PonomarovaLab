@@ -5,7 +5,7 @@ description: Undergraduate Assistant
 role: undergrad
 group: alum
 links:
-  github: roshawn-morgan
+  email: rmorgan2002@unm.edu
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+I am a senior majoring in biochemistry. My hobbies/interests are snowboarding, soccer, playing piano, working out and listening to music.
