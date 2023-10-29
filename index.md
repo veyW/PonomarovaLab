@@ -1,8 +1,7 @@
 ---
 ---
 
-We study metabolism. Our lab at the [University of New Mexico Medical School](https://hsc.unm.edu/research/)'s Department of Biochemistry and Molecular Biology investigates how metabolic network supports health of living organisms. Our research focuses on the fundamental principles that guide metabolic pathways interactions.
-
+We study metabolism. Our lab in the Department of Biochemistry and Molecular Biology at the [University of New Mexico Medical School](https://hsc.unm.edu/research/) investigates how metabolic networks support the health of living organisms. Our research focuses on the fundamental principles that guide interactions between metabolic pathways.
 
 {% include section.html %}
 
@@ -10,7 +9,7 @@ We study metabolism. Our lab at the [University of New Mexico Medical School](ht
 
 {% capture text %}
 
-We are intrigued by intericate connections of central metabolic pathways. Why are they built this way? How does their function affect organismal physiology? To understand the logic behind the metabolic network architecture we use a renowned model organism nematode _Caenorhabditis elegans_ and its bacterial diet. Metabolomics and genetics are our favorite tools.
+We are intrigued by the intricate connections of central metabolic pathways. Why are they built this way? How does their function affect organismal physiology? To understand the logic behind the architecture of the metabolic network, we use the renowned model organism, the nematode _Caenorhabditis elegans_, along with its bacterial diet. Metabolomics and genetics are our favorite tools.
 
 {%
   include button.html
