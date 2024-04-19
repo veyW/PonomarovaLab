@@ -1,9 +1,9 @@
 ---
-name: Muthubharathi "Bharathi" Balasubramanian Chellammal
+name: Muthubharathi Balasubramanian Chellammal
 image: images/Bharathi.jpg
 description: Postdoc
-role: Postdoc
-group: Postdoc
+role: undergrad
+group: alum
 links:
   mbalasubramanianchel@salud.unm.edu
 ---
