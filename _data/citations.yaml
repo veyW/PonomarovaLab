@@ -1,5 +1,46 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1101/2024.03.13.584865
+  title: <i>idh-1</i>neomorphic mutation confers sensitivity to vitamin B12 via increased
+    dependency on one-carbon metabolism in<i>Caenorhabditis elegans</i>
+  authors:
+  - Olga Ponomarova
+  - Alyxandra N. Starbard
+  - Alexandra Belfi
+  - Amanda V. Anderson
+  - Meera V. Sundaram
+  - Albertha J.M. Walhout
+  publisher: Cold Spring Harbor Laboratory
+  date: '2024-03-14'
+  link: https://doi.org/gtrgrz
+  orcid: 0000-0001-6331-9949
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41586-023-06676-3
+  title: Disruption of sugar nucleotide clearance is a therapeutic vulnerability of
+    cancer cells
+  authors:
+  - Mihir B. Doshi
+  - Namgyu Lee
+  - Tenzin Tseyang
+  - Olga Ponomarova
+  - Hira Lal Goel
+  - Meghan Spears
+  - Rui Li
+  - Lihua Julie Zhu
+  - Christopher Ashwood
+  - Karl Simin
+  - Cholsoon Jang
+  - Arthur M. Mercurio
+  - Albertha J. M. Walhout
+  - Jessica B. Spinelli
+  - Dohoon Kim
+  publisher: Nature
+  date: '2023-10-25'
+  link: https://doi.org/gtf5wf
+  orcid: 0000-0001-6331-9949
+  plugin: orcid.py
+  file: orcid.yaml
 - id: pmc:PMC10096224
   title: A D-2-hydroxyglutarate dehydrogenase mutant reveals a critical role for ketone
     body metabolism in Caenorhabditis elegans development
