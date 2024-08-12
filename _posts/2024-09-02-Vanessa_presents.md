@@ -1,5 +1,5 @@
 ---
-title: Manuscript published
+title: Vanessa presents her poster at the UPN Symposium
 author: olga-ponomarova
 ---
 
