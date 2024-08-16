@@ -5,4 +5,9 @@ author: olga-ponomarova
 
 Vanessa Lewis, our UPN student, presented a wonderful poster about her work on phosphoglycerate dehydrogenase. Her time with us flew by so quickly... we will miss you, Vanessa!
 
+{% capture content %}
+
 {% include figure.html image="Vanessa_poster.jpeg" %}
+
+{% endcapture %}
+
