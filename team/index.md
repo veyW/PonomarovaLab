@@ -30,10 +30,7 @@ nav:
 <p style="text-align: center;">ALUMNI</p>
 {% include section.html %}
 
-{% capture content %}
-
 ##### Vanessa Lewis, UPN Student
 ##### Roshawn Morgan, Undergraduate Assistant
 ##### Jordan Perez, Honors Student
 
-{% endcapture %}
