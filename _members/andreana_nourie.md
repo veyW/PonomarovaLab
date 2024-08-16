@@ -2,7 +2,7 @@
 name: Andreana Nourie
 image: images/Andreana.jpg
 description: PhD Student
-role: PhD
+role: undergrad
 group: alum
 links:
   email: anourie@salud.unm.edu
