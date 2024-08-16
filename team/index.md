@@ -25,6 +25,8 @@ nav:
 
 {% include grid.html style="square" content=content %}
 
+{% include section.html background="images/petri2.jpg" dark=true %}
+
 <p style="text-align: center;">ALUMNI</p>
 
 
